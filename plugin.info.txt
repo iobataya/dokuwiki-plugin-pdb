@@ -1,0 +1,7 @@
+base    pdb
+author  Ikuo Obataya
+emal    i.obataya[at]gmail_com
+date    2013-07-07
+name    PDB plugin
+desc    Creates Protein Data Base data
+url     http://www.dokuwiki.org/plugin:pdb

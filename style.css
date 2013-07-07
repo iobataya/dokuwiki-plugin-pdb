@@ -1,0 +1,36 @@
+div.dokuwiki div.pdb_plugin{
+  border-top:solid 1px #CCCCCC;
+  border-bottom:solid 1px #CCCCCC;
+  margin:2px;
+}
+div.dokuwiki span.pdb_plugin_acc{
+  background-image:url(images/pdb.gif);
+  background-repeat:no-repeat;
+  padding-left:18px;
+}
+div.dokuwiki div.pdb_plugin_text{
+  font-size:90%;
+  font-style:italic;
+  background-color:#DDFFFF;
+}
+div.dokuwiki div.pdb_plugin_ligand{
+  font-size:90%;
+  background-color:#EEFFFF;
+}
+div.dokuwiki div.pdb_image80,
+div.dokuwiki div.pdb_image250,
+div.dokuwiki div.pdb_image500
+{
+  padding-bottom:18px;
+  background-image:url(images/pdblogo.png);
+  background-repeat:no-repeat;
+  background-position:left bottom;
+  margin:5px;
+  border:solid 1px #CCCCCC;  
+}
+div.dokuwiki div.pdb_image80{width:82px;}
+div.dokuwiki div.pdb_image250{width:252px;}
+div.dokuwiki div.pdb_image500{width:502px;}
+
+div.dokuwiki div.pdb_full_left{float:left;width:90px;}
+div.dokuwiki div.pdb_full_right{float:left;width:500px;padding:5px;}
